@@ -1,4 +1,4 @@
-# simple-get [![travis][travis-image]][travis-url] [![npm][npm-image]][npm-url] [![downloads][downloads-image]][downloads-url]
+# simple-get-es5 [![travis][travis-image]][travis-url] [![npm][npm-image]][npm-url] [![downloads][downloads-image]][downloads-url]
 
 [travis-image]: https://img.shields.io/travis/feross/simple-get/master.svg
 [travis-url]: https://travis-ci.org/feross/simple-get
@@ -7,7 +7,7 @@
 [downloads-image]: https://img.shields.io/npm/dm/simple-get.svg
 [downloads-url]: https://npmjs.org/package/simple-get
 
-### Simplest way to make http get requests
+### Simplest way to make http get requests, with an ES5 polyfill.
 
 ## features
 
