@@ -23,7 +23,7 @@ All this in < 100 lines of code.
 ## install
 
 ```
-npm install simple-get
+npm install simple-get-es5
 ```
 
 ## usage
